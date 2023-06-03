@@ -1,0 +1,17 @@
+name: DuosLegendaires
+version: 0.1
+author: RaccoonGang
+main: fr.raccoongang.duoslegendaires.Main
+commands:
+  test:
+    description: test
+    permission: test.use
+  alert:
+    description: broadcast
+    permission: alert.use
+  end:
+    description: /end
+  spawn:
+    description: /spawn
+  alea:
+    desription: /alea
